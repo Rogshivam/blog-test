@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class whileLoop 
+public class whileLoop {
     public static void main(String[] arg) {
         int num = 1;
         while (num <= 10 ) {
