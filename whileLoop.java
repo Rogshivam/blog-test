@@ -14,10 +14,11 @@ public class whileLoop {
             count -= 1;
         }
 
-        Scanner input = new Scanner(System.in);
+        // Scanner input = new Scanner(System.in);
         int i = 0;
         while (i < 5) {
-            int inp = input.nextInt();
+            // int inp = input.nextInt();
+            int inp = 10;
             System.out.println("Number is :" + inp);
                     i++;
         }
